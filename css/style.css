@@ -72,8 +72,8 @@ body{
         block-size: 44px;
     }
     .navbar-final{
-        position: absolute;
-        inset-block-start: 145px;
-        inset-inline-start: 320px;
+        position: relative;
+        inset-inline-start: 140px;
+        inset-block-start: -30px;
     }
 }
